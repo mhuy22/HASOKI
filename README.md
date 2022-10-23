@@ -54,9 +54,9 @@
  - Next Update Attack Menu And L4 Methods (SOON...)
 ```
 
-## Grouptelegram
-https://t.me/hackingcn
+## Facebook
 
+https://www.facebook.com/profile.php?id=10002307194535
 ## Usage
 ```sh
 You must use Python 3.9 or higher.
@@ -65,6 +65,6 @@ INSTALL: python setup.py install or python3 setup.py install
 
 ## Contact Developer
 ```sh
- Telegram: https://t.me/adfhjktewwyjqk
+ Zalo me:zalo.me/votrinhminhhuy
 ```
 original : https://github.com/HyukIsBack/KARMA-DDoS
